@@ -1,11 +1,11 @@
 # Mf_city_farm_bot
-a bot to automaticall manage your Villa in the MafiaCity game.
+A bot to automaticall manage your Villa in the MafiaCity game.
 
 ## To get the software working you will need to:
 
-1- download Bluestacks and install MafiaCity on it.
+1- Download Bluestacks and install MafiaCity on it.
 2- Run the MafiaCity Game in your BlueStacks app
-3- run the main.py file
+3- Run the main.py file
 
 
 Notes:
