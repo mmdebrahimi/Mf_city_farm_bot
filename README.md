@@ -22,4 +22,4 @@ Notes:
 - The bot will collect your flowers and plant new flowers
 - The bot will automatically put you under a 3 day bubble given you have enough gold
 - The bot will play the casino game and only flip when you are likely to get 6k or 10k gold (patterns are static)
-- The bot will able to spend the items that should be spent(gold, resource packs etc.)
+- The bot will be able to spend the items that should be spent(gold, resource packs etc.)
