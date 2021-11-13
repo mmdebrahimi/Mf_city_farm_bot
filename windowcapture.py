@@ -95,4 +95,5 @@ class WindowCapture:
     # return incorrect coordinates, because the window position is only calculated in
     # the __init__ constructor.
     def get_screen_position(self, pos):
+        # print("POS:", pos, "\n", "SELF: ", self.offset_x)
         return (pos[0] + self.offset_x, pos[1] + self.offset_y)
