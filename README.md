@@ -15,7 +15,7 @@ Notes:
 
 - It is best to leave this running on a computer that you do not use and it will automatically collect resources for you and (planning to) send your forces to collect rss.
 
-<Future Updates>
+## Future Updates
 
 - The bot will 'help' babes that are asking for help at your gate
 - The bot will go through the dengeoun as far as you are capable of going
